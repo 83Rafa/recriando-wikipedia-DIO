@@ -10,6 +10,6 @@ Os tópicos abordados no curso foram aplicados no site:
  - Acessibilidade
  - Semântica
  
-- Testei o site utilizando o NVDA e a extenção WAVE
+- Testei o site utilizando o NVDA e a extensão WAVE
 
 
