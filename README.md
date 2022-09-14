@@ -1,6 +1,6 @@
 # Recriando Wikipédia - DIO
 
-Site Moviepedia com filmes de ficção que retrata um futuro para se pensar na evolução da tecnologia e, principalmente, na evolução da humanidade.
+Site Moviepedia com filmes de ficção que retratam um futuro para se pensar na evolução da tecnologia e, principalmente, na evolução da humanidade.
 
 Os tópicos abordados no curso foram aplicados no site:
  - Tags
